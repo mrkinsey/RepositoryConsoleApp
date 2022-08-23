@@ -1,0 +1,12 @@
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\bin\Debug\net6.0\Delivery_Repository.deps.json
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\bin\Debug\net6.0\Delivery_Repository.dll
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\bin\Debug\net6.0\Delivery_Repository.pdb
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.dll
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\refint\Delivery_Repository.dll
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\Delivery_Repository.pdb
+C:\ElevenFiftyAcademy149\codingFoundations\assignments\RepositoryConsoleApp\Delivery_Repository\obj\Debug\net6.0\ref\Delivery_Repository.dll
